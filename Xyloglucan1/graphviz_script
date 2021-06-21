@@ -1,0 +1,40 @@
+graph G {
+  graph [splines=false forcelabels=true  dpi=72];
+  node [ shape ="none" fontname=Helvetica labelfontsize=12  forcelabels="true";  lable="none" size=50 fixedsize="true" scale="true"];
+  edge [labelfontsize=12 fontname=Helvetica labeldistance=1.2 labelangle = 320.0];
+  rankdir=RL
+  nodesep="0.01" ;
+0 [shape=box label="OH"]
+1 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+2 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+3 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+4 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+5 [label="" image= "/programs/image/CFG_Symbol_Images/Xylp.svg"  height="0.7"]
+6 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+7 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+8 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+9 [label="" image= "/programs/image/CFG_Symbol_Images/Xylp.svg"  height="0.7"]
+10 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+11 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+12 [label="" image= "/programs/image/CFG_Symbol_Images/Xylp.svg"  height="0.7"]
+13 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+14 [label="" image= "/programs/image/CFG_Symbol_Images/Xylp.svg"  height="0.7"]
+15 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+16 [label="" image= "/programs/image/CFG_Symbol_Images/Glcp.svg"  height="0.7"]
+0 -- 1 [headlabel="b"]
+1-- 2 [headlabel="b" taillabel="4" ];
+2-- 3 [headlabel="b" taillabel="4" ];
+3-- 4 [headlabel="b" taillabel="4" ];
+4-- 5 [headlabel="b" taillabel="6" ];
+4-- 6 [headlabel="b" taillabel="4" ];
+6-- 7 [headlabel="b" taillabel="4" ];
+7-- 8 [headlabel="b" taillabel="4" ];
+8-- 9 [headlabel="b" taillabel="6" ];
+8-- 10 [headlabel="b" taillabel="4" ];
+10-- 11 [headlabel="b" taillabel="4" ];
+11-- 12 [headlabel="b" taillabel="6" ];
+11-- 13 [headlabel="b" taillabel="4" ];
+13-- 14 [headlabel="b" taillabel="6" ];
+13-- 15 [headlabel="b" taillabel="4" ];
+15-- 16 [headlabel="b" taillabel="4" ];
+}
