@@ -1,0 +1,45 @@
+* ---- 
+* Built parameters for oxalicacid.mol2 
+*    by user vzoete     Fri Jun 18 13:58:31 UTC 2021 
+* ---- 
+*
+
+BONDS
+C=O  C=O   317.947     1.4890 
+C=O  O=C   931.963     1.2220 
+C=O  OR    417.476     1.3550 
+OR   HOCO  532.766     0.9810 
+
+ANGLES
+C=O  C=O  O=C    66.136    117.0240 
+C=O  C=O  OR     67.288    103.0300 
+O=C  C=O  OR     83.120    124.4250 
+C=O  OR   HOCO   41.956    111.9480 
+
+DIHEDRALS
+C=O  C=O  OR   HOCO     0.832  1     0.00 
+C=O  C=O  OR   HOCO     2.037  2   180.00 
+C=O  C=O  OR   HOCO     0.047  3     0.00 
+O=C  C=O  C=O  O=C     -0.130  1     0.00 
+O=C  C=O  C=O  O=C      0.542  2   180.00 
+O=C  C=O  C=O  O=C      0.097  3     0.00 
+O=C  C=O  C=O  OR      -0.247  1     0.00 
+O=C  C=O  C=O  OR       0.397  2   180.00 
+O=C  C=O  C=O  OR      -0.159  3     0.00 
+O=C  C=O  OR   HOCO     0.831  1     0.00 
+O=C  C=O  OR   HOCO     3.076  2   180.00 
+O=C  C=O  OR   HOCO    -0.029  3     0.00 
+OR   C=O  C=O  OR       0.135  1     0.00 
+OR   C=O  C=O  OR       0.218  2   180.00 
+
+IMPROPER
+C=O  OR   C=O  O=C      9.140  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+C=O     0.000000  -0.110000     2.000000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+OR      0.000000  -0.152100     1.770000    
+HOCO    0.000000  -0.046000     0.224500    
+
+
