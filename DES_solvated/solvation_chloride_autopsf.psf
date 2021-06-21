@@ -1,0 +1,298 @@
+PSF
+
+       3 !NTITLE
+ REMARKS original generated structure x-plor psf file
+ REMARKS topology solvation_chloride_autopsf-temp.top 
+ REMARKS segment BO1 { first none; last none; auto none  }
+
+     235 !NATOM
+       1 BO1  1    CLA  CLA  CLA   -1.000000       35.4500           0
+       2 BO1  2    CLA  CLA  CLA   -1.000000       35.4500           0
+       3 BO1  3    CLA  CLA  CLA   -1.000000       35.4500           0
+       4 BO1  4    CLA  CLA  CLA   -1.000000       35.4500           0
+       5 BO1  5    CLA  CLA  CLA   -1.000000       35.4500           0
+       6 BO1  6    CLA  CLA  CLA   -1.000000       35.4500           0
+       7 BO1  7    CLA  CLA  CLA   -1.000000       35.4500           0
+       8 BO1  8    CLA  CLA  CLA   -1.000000       35.4500           0
+       9 BO1  9    CLA  CLA  CLA   -1.000000       35.4500           0
+      10 BO1  10   CLA  CLA  CLA   -1.000000       35.4500           0
+      11 BO1  11   CLA  CLA  CLA   -1.000000       35.4500           0
+      12 BO1  12   CLA  CLA  CLA   -1.000000       35.4500           0
+      13 BO1  13   CLA  CLA  CLA   -1.000000       35.4500           0
+      14 BO1  14   CLA  CLA  CLA   -1.000000       35.4500           0
+      15 BO1  15   CLA  CLA  CLA   -1.000000       35.4500           0
+      16 BO1  16   CLA  CLA  CLA   -1.000000       35.4500           0
+      17 BO1  17   CLA  CLA  CLA   -1.000000       35.4500           0
+      18 BO1  18   CLA  CLA  CLA   -1.000000       35.4500           0
+      19 BO1  19   CLA  CLA  CLA   -1.000000       35.4500           0
+      20 BO1  20   CLA  CLA  CLA   -1.000000       35.4500           0
+      21 BO1  21   CLA  CLA  CLA   -1.000000       35.4500           0
+      22 BO1  22   CLA  CLA  CLA   -1.000000       35.4500           0
+      23 BO1  23   CLA  CLA  CLA   -1.000000       35.4500           0
+      24 BO1  24   CLA  CLA  CLA   -1.000000       35.4500           0
+      25 BO1  25   CLA  CLA  CLA   -1.000000       35.4500           0
+      26 BO1  26   CLA  CLA  CLA   -1.000000       35.4500           0
+      27 BO1  27   CLA  CLA  CLA   -1.000000       35.4500           0
+      28 BO1  28   CLA  CLA  CLA   -1.000000       35.4500           0
+      29 BO1  29   CLA  CLA  CLA   -1.000000       35.4500           0
+      30 BO1  30   CLA  CLA  CLA   -1.000000       35.4500           0
+      31 BO1  31   CLA  CLA  CLA   -1.000000       35.4500           0
+      32 BO1  32   CLA  CLA  CLA   -1.000000       35.4500           0
+      33 BO1  33   CLA  CLA  CLA   -1.000000       35.4500           0
+      34 BO1  34   CLA  CLA  CLA   -1.000000       35.4500           0
+      35 BO1  35   CLA  CLA  CLA   -1.000000       35.4500           0
+      36 BO1  36   CLA  CLA  CLA   -1.000000       35.4500           0
+      37 BO1  37   CLA  CLA  CLA   -1.000000       35.4500           0
+      38 BO1  38   CLA  CLA  CLA   -1.000000       35.4500           0
+      39 BO1  39   CLA  CLA  CLA   -1.000000       35.4500           0
+      40 BO1  40   CLA  CLA  CLA   -1.000000       35.4500           0
+      41 BO1  41   CLA  CLA  CLA   -1.000000       35.4500           0
+      42 BO1  42   CLA  CLA  CLA   -1.000000       35.4500           0
+      43 BO1  43   CLA  CLA  CLA   -1.000000       35.4500           0
+      44 BO1  44   CLA  CLA  CLA   -1.000000       35.4500           0
+      45 BO1  45   CLA  CLA  CLA   -1.000000       35.4500           0
+      46 BO1  46   CLA  CLA  CLA   -1.000000       35.4500           0
+      47 BO1  47   CLA  CLA  CLA   -1.000000       35.4500           0
+      48 BO1  48   CLA  CLA  CLA   -1.000000       35.4500           0
+      49 BO1  49   CLA  CLA  CLA   -1.000000       35.4500           0
+      50 BO1  50   CLA  CLA  CLA   -1.000000       35.4500           0
+      51 BO1  51   CLA  CLA  CLA   -1.000000       35.4500           0
+      52 BO1  52   CLA  CLA  CLA   -1.000000       35.4500           0
+      53 BO1  53   CLA  CLA  CLA   -1.000000       35.4500           0
+      54 BO1  54   CLA  CLA  CLA   -1.000000       35.4500           0
+      55 BO1  55   CLA  CLA  CLA   -1.000000       35.4500           0
+      56 BO1  56   CLA  CLA  CLA   -1.000000       35.4500           0
+      57 BO1  57   CLA  CLA  CLA   -1.000000       35.4500           0
+      58 BO1  58   CLA  CLA  CLA   -1.000000       35.4500           0
+      59 BO1  59   CLA  CLA  CLA   -1.000000       35.4500           0
+      60 BO1  60   CLA  CLA  CLA   -1.000000       35.4500           0
+      61 BO1  61   CLA  CLA  CLA   -1.000000       35.4500           0
+      62 BO1  62   CLA  CLA  CLA   -1.000000       35.4500           0
+      63 BO1  63   CLA  CLA  CLA   -1.000000       35.4500           0
+      64 BO1  64   CLA  CLA  CLA   -1.000000       35.4500           0
+      65 BO1  65   CLA  CLA  CLA   -1.000000       35.4500           0
+      66 BO1  66   CLA  CLA  CLA   -1.000000       35.4500           0
+      67 BO1  67   CLA  CLA  CLA   -1.000000       35.4500           0
+      68 BO1  68   CLA  CLA  CLA   -1.000000       35.4500           0
+      69 BO1  69   CLA  CLA  CLA   -1.000000       35.4500           0
+      70 BO1  70   CLA  CLA  CLA   -1.000000       35.4500           0
+      71 BO1  71   CLA  CLA  CLA   -1.000000       35.4500           0
+      72 BO1  72   CLA  CLA  CLA   -1.000000       35.4500           0
+      73 BO1  73   CLA  CLA  CLA   -1.000000       35.4500           0
+      74 BO1  74   CLA  CLA  CLA   -1.000000       35.4500           0
+      75 BO1  75   CLA  CLA  CLA   -1.000000       35.4500           0
+      76 BO1  76   CLA  CLA  CLA   -1.000000       35.4500           0
+      77 BO1  77   CLA  CLA  CLA   -1.000000       35.4500           0
+      78 BO1  78   CLA  CLA  CLA   -1.000000       35.4500           0
+      79 BO1  79   CLA  CLA  CLA   -1.000000       35.4500           0
+      80 BO1  80   CLA  CLA  CLA   -1.000000       35.4500           0
+      81 BO1  81   CLA  CLA  CLA   -1.000000       35.4500           0
+      82 BO1  82   CLA  CLA  CLA   -1.000000       35.4500           0
+      83 BO1  83   CLA  CLA  CLA   -1.000000       35.4500           0
+      84 BO1  84   CLA  CLA  CLA   -1.000000       35.4500           0
+      85 BO1  85   CLA  CLA  CLA   -1.000000       35.4500           0
+      86 BO1  86   CLA  CLA  CLA   -1.000000       35.4500           0
+      87 BO1  87   CLA  CLA  CLA   -1.000000       35.4500           0
+      88 BO1  88   CLA  CLA  CLA   -1.000000       35.4500           0
+      89 BO1  89   CLA  CLA  CLA   -1.000000       35.4500           0
+      90 BO1  90   CLA  CLA  CLA   -1.000000       35.4500           0
+      91 BO1  91   CLA  CLA  CLA   -1.000000       35.4500           0
+      92 BO1  92   CLA  CLA  CLA   -1.000000       35.4500           0
+      93 BO1  93   CLA  CLA  CLA   -1.000000       35.4500           0
+      94 BO1  94   CLA  CLA  CLA   -1.000000       35.4500           0
+      95 BO1  95   CLA  CLA  CLA   -1.000000       35.4500           0
+      96 BO1  96   CLA  CLA  CLA   -1.000000       35.4500           0
+      97 BO1  97   CLA  CLA  CLA   -1.000000       35.4500           0
+      98 BO1  98   CLA  CLA  CLA   -1.000000       35.4500           0
+      99 BO1  99   CLA  CLA  CLA   -1.000000       35.4500           0
+     100 BO1  100  CLA  CLA  CLA   -1.000000       35.4500           0
+     101 BO1  101  CLA  CLA  CLA   -1.000000       35.4500           0
+     102 BO1  102  CLA  CLA  CLA   -1.000000       35.4500           0
+     103 BO1  103  CLA  CLA  CLA   -1.000000       35.4500           0
+     104 BO1  104  CLA  CLA  CLA   -1.000000       35.4500           0
+     105 BO1  105  CLA  CLA  CLA   -1.000000       35.4500           0
+     106 BO1  106  CLA  CLA  CLA   -1.000000       35.4500           0
+     107 BO1  107  CLA  CLA  CLA   -1.000000       35.4500           0
+     108 BO1  108  CLA  CLA  CLA   -1.000000       35.4500           0
+     109 BO1  109  CLA  CLA  CLA   -1.000000       35.4500           0
+     110 BO1  110  CLA  CLA  CLA   -1.000000       35.4500           0
+     111 BO1  111  CLA  CLA  CLA   -1.000000       35.4500           0
+     112 BO1  112  CLA  CLA  CLA   -1.000000       35.4500           0
+     113 BO1  113  CLA  CLA  CLA   -1.000000       35.4500           0
+     114 BO1  114  CLA  CLA  CLA   -1.000000       35.4500           0
+     115 BO1  115  CLA  CLA  CLA   -1.000000       35.4500           0
+     116 BO1  116  CLA  CLA  CLA   -1.000000       35.4500           0
+     117 BO1  117  CLA  CLA  CLA   -1.000000       35.4500           0
+     118 BO1  118  CLA  CLA  CLA   -1.000000       35.4500           0
+     119 BO1  119  CLA  CLA  CLA   -1.000000       35.4500           0
+     120 BO1  120  CLA  CLA  CLA   -1.000000       35.4500           0
+     121 BO1  121  CLA  CLA  CLA   -1.000000       35.4500           0
+     122 BO1  122  CLA  CLA  CLA   -1.000000       35.4500           0
+     123 BO1  123  CLA  CLA  CLA   -1.000000       35.4500           0
+     124 BO1  124  CLA  CLA  CLA   -1.000000       35.4500           0
+     125 BO1  125  CLA  CLA  CLA   -1.000000       35.4500           0
+     126 BO1  126  CLA  CLA  CLA   -1.000000       35.4500           0
+     127 BO1  127  CLA  CLA  CLA   -1.000000       35.4500           0
+     128 BO1  128  CLA  CLA  CLA   -1.000000       35.4500           0
+     129 BO1  129  CLA  CLA  CLA   -1.000000       35.4500           0
+     130 BO1  130  CLA  CLA  CLA   -1.000000       35.4500           0
+     131 BO1  131  CLA  CLA  CLA   -1.000000       35.4500           0
+     132 BO1  132  CLA  CLA  CLA   -1.000000       35.4500           0
+     133 BO1  133  CLA  CLA  CLA   -1.000000       35.4500           0
+     134 BO1  134  CLA  CLA  CLA   -1.000000       35.4500           0
+     135 BO1  135  CLA  CLA  CLA   -1.000000       35.4500           0
+     136 BO1  136  CLA  CLA  CLA   -1.000000       35.4500           0
+     137 BO1  137  CLA  CLA  CLA   -1.000000       35.4500           0
+     138 BO1  138  CLA  CLA  CLA   -1.000000       35.4500           0
+     139 BO1  139  CLA  CLA  CLA   -1.000000       35.4500           0
+     140 BO1  140  CLA  CLA  CLA   -1.000000       35.4500           0
+     141 BO1  141  CLA  CLA  CLA   -1.000000       35.4500           0
+     142 BO1  142  CLA  CLA  CLA   -1.000000       35.4500           0
+     143 BO1  143  CLA  CLA  CLA   -1.000000       35.4500           0
+     144 BO1  144  CLA  CLA  CLA   -1.000000       35.4500           0
+     145 BO1  145  CLA  CLA  CLA   -1.000000       35.4500           0
+     146 BO1  146  CLA  CLA  CLA   -1.000000       35.4500           0
+     147 BO1  147  CLA  CLA  CLA   -1.000000       35.4500           0
+     148 BO1  148  CLA  CLA  CLA   -1.000000       35.4500           0
+     149 BO1  149  CLA  CLA  CLA   -1.000000       35.4500           0
+     150 BO1  150  CLA  CLA  CLA   -1.000000       35.4500           0
+     151 BO1  151  CLA  CLA  CLA   -1.000000       35.4500           0
+     152 BO1  152  CLA  CLA  CLA   -1.000000       35.4500           0
+     153 BO1  153  CLA  CLA  CLA   -1.000000       35.4500           0
+     154 BO1  154  CLA  CLA  CLA   -1.000000       35.4500           0
+     155 BO1  155  CLA  CLA  CLA   -1.000000       35.4500           0
+     156 BO1  156  CLA  CLA  CLA   -1.000000       35.4500           0
+     157 BO1  157  CLA  CLA  CLA   -1.000000       35.4500           0
+     158 BO1  158  CLA  CLA  CLA   -1.000000       35.4500           0
+     159 BO1  159  CLA  CLA  CLA   -1.000000       35.4500           0
+     160 BO1  160  CLA  CLA  CLA   -1.000000       35.4500           0
+     161 BO1  161  CLA  CLA  CLA   -1.000000       35.4500           0
+     162 BO1  162  CLA  CLA  CLA   -1.000000       35.4500           0
+     163 BO1  163  CLA  CLA  CLA   -1.000000       35.4500           0
+     164 BO1  164  CLA  CLA  CLA   -1.000000       35.4500           0
+     165 BO1  165  CLA  CLA  CLA   -1.000000       35.4500           0
+     166 BO1  166  CLA  CLA  CLA   -1.000000       35.4500           0
+     167 BO1  167  CLA  CLA  CLA   -1.000000       35.4500           0
+     168 BO1  168  CLA  CLA  CLA   -1.000000       35.4500           0
+     169 BO1  169  CLA  CLA  CLA   -1.000000       35.4500           0
+     170 BO1  170  CLA  CLA  CLA   -1.000000       35.4500           0
+     171 BO1  171  CLA  CLA  CLA   -1.000000       35.4500           0
+     172 BO1  172  CLA  CLA  CLA   -1.000000       35.4500           0
+     173 BO1  173  CLA  CLA  CLA   -1.000000       35.4500           0
+     174 BO1  174  CLA  CLA  CLA   -1.000000       35.4500           0
+     175 BO1  175  CLA  CLA  CLA   -1.000000       35.4500           0
+     176 BO1  176  CLA  CLA  CLA   -1.000000       35.4500           0
+     177 BO1  177  CLA  CLA  CLA   -1.000000       35.4500           0
+     178 BO1  178  CLA  CLA  CLA   -1.000000       35.4500           0
+     179 BO1  179  CLA  CLA  CLA   -1.000000       35.4500           0
+     180 BO1  180  CLA  CLA  CLA   -1.000000       35.4500           0
+     181 BO1  181  CLA  CLA  CLA   -1.000000       35.4500           0
+     182 BO1  182  CLA  CLA  CLA   -1.000000       35.4500           0
+     183 BO1  183  CLA  CLA  CLA   -1.000000       35.4500           0
+     184 BO1  184  CLA  CLA  CLA   -1.000000       35.4500           0
+     185 BO1  185  CLA  CLA  CLA   -1.000000       35.4500           0
+     186 BO1  186  CLA  CLA  CLA   -1.000000       35.4500           0
+     187 BO1  187  CLA  CLA  CLA   -1.000000       35.4500           0
+     188 BO1  188  CLA  CLA  CLA   -1.000000       35.4500           0
+     189 BO1  189  CLA  CLA  CLA   -1.000000       35.4500           0
+     190 BO1  190  CLA  CLA  CLA   -1.000000       35.4500           0
+     191 BO1  191  CLA  CLA  CLA   -1.000000       35.4500           0
+     192 BO1  192  CLA  CLA  CLA   -1.000000       35.4500           0
+     193 BO1  193  CLA  CLA  CLA   -1.000000       35.4500           0
+     194 BO1  194  CLA  CLA  CLA   -1.000000       35.4500           0
+     195 BO1  195  CLA  CLA  CLA   -1.000000       35.4500           0
+     196 BO1  196  CLA  CLA  CLA   -1.000000       35.4500           0
+     197 BO1  197  CLA  CLA  CLA   -1.000000       35.4500           0
+     198 BO1  198  CLA  CLA  CLA   -1.000000       35.4500           0
+     199 BO1  199  CLA  CLA  CLA   -1.000000       35.4500           0
+     200 BO1  200  CLA  CLA  CLA   -1.000000       35.4500           0
+     201 BO1  201  CLA  CLA  CLA   -1.000000       35.4500           0
+     202 BO1  202  CLA  CLA  CLA   -1.000000       35.4500           0
+     203 BO1  203  CLA  CLA  CLA   -1.000000       35.4500           0
+     204 BO1  204  CLA  CLA  CLA   -1.000000       35.4500           0
+     205 BO1  205  CLA  CLA  CLA   -1.000000       35.4500           0
+     206 BO1  206  CLA  CLA  CLA   -1.000000       35.4500           0
+     207 BO1  207  CLA  CLA  CLA   -1.000000       35.4500           0
+     208 BO1  208  CLA  CLA  CLA   -1.000000       35.4500           0
+     209 BO1  209  CLA  CLA  CLA   -1.000000       35.4500           0
+     210 BO1  210  CLA  CLA  CLA   -1.000000       35.4500           0
+     211 BO1  211  CLA  CLA  CLA   -1.000000       35.4500           0
+     212 BO1  212  CLA  CLA  CLA   -1.000000       35.4500           0
+     213 BO1  213  CLA  CLA  CLA   -1.000000       35.4500           0
+     214 BO1  214  CLA  CLA  CLA   -1.000000       35.4500           0
+     215 BO1  215  CLA  CLA  CLA   -1.000000       35.4500           0
+     216 BO1  216  CLA  CLA  CLA   -1.000000       35.4500           0
+     217 BO1  217  CLA  CLA  CLA   -1.000000       35.4500           0
+     218 BO1  218  CLA  CLA  CLA   -1.000000       35.4500           0
+     219 BO1  219  CLA  CLA  CLA   -1.000000       35.4500           0
+     220 BO1  220  CLA  CLA  CLA   -1.000000       35.4500           0
+     221 BO1  221  CLA  CLA  CLA   -1.000000       35.4500           0
+     222 BO1  222  CLA  CLA  CLA   -1.000000       35.4500           0
+     223 BO1  223  CLA  CLA  CLA   -1.000000       35.4500           0
+     224 BO1  224  CLA  CLA  CLA   -1.000000       35.4500           0
+     225 BO1  225  CLA  CLA  CLA   -1.000000       35.4500           0
+     226 BO1  226  CLA  CLA  CLA   -1.000000       35.4500           0
+     227 BO1  227  CLA  CLA  CLA   -1.000000       35.4500           0
+     228 BO1  228  CLA  CLA  CLA   -1.000000       35.4500           0
+     229 BO1  229  CLA  CLA  CLA   -1.000000       35.4500           0
+     230 BO1  230  CLA  CLA  CLA   -1.000000       35.4500           0
+     231 BO1  231  CLA  CLA  CLA   -1.000000       35.4500           0
+     232 BO1  232  CLA  CLA  CLA   -1.000000       35.4500           0
+     233 BO1  233  CLA  CLA  CLA   -1.000000       35.4500           0
+     234 BO1  234  CLA  CLA  CLA   -1.000000       35.4500           0
+     235 BO1  235  CLA  CLA  CLA   -1.000000       35.4500           0
+
+       0 !NBOND: bonds
+
+
+       0 !NTHETA: angles
+
+
+       0 !NPHI: dihedrals
+
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0       0
+
+       1       0 !NGRP
+       0       0       0
+

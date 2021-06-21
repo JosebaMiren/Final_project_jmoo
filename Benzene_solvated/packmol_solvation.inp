@@ -1,0 +1,20 @@
+#
+# 1 fibril with 20 lignins
+#
+
+tolerance 2.0
+
+
+structure cellulose_and_lignin.pdb
+  number 1 
+  fixed 0. 0. 0. 0. 0. 0.
+  centerofmass
+end structure
+
+structure benz_autopsf.pdb
+  number 692 
+  inside box -31. -41. -17. 31. 41. 17.
+end structure
+
+
+output system.pdb

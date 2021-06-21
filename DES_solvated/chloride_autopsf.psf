@@ -1,0 +1,35 @@
+PSF
+
+       3 !NTITLE
+ REMARKS original generated structure x-plor psf file
+ REMARKS topology chloride_autopsf-temp.top 
+ REMARKS segment BO1 { first none; last none; auto none  }
+
+       1 !NATOM
+       1 BO1  1    CLA  CLA  CLA   -1.000000       35.4500           0
+
+       0 !NBOND: bonds
+
+
+       0 !NTHETA: angles
+
+
+       0 !NPHI: dihedrals
+
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0
+
+       1       0 !NGRP
+       0       0       0
+

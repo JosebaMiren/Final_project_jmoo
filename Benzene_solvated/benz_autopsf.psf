@@ -1,0 +1,67 @@
+PSF
+
+       3 !NTITLE
+ REMARKS original generated structure x-plor psf file
+ REMARKS topology benz_autopsf-temp.top 
+ REMARKS segment XO1 { first none; last none; auto angles dihedrals }
+
+      12 !NATOM
+       1 XO1  1    LIG  CG   CB    -0.150000       12.0110           0
+       2 XO1  1    LIG  CD1  CB    -0.150000       12.0110           0
+       3 XO1  1    LIG  CD2  CB    -0.150000       12.0110           0
+       4 XO1  1    LIG  CE1  CB    -0.150000       12.0110           0
+       5 XO1  1    LIG  CE2  CB    -0.150000       12.0110           0
+       6 XO1  1    LIG  CZ   CB    -0.150000       12.0110           0
+       7 XO1  1    LIG  HG   HCMM   0.150000        1.0079           0
+       8 XO1  1    LIG  HD1  HCMM   0.150000        1.0079           0
+       9 XO1  1    LIG  HD2  HCMM   0.150000        1.0079           0
+      10 XO1  1    LIG  HE1  HCMM   0.150000        1.0079           0
+      11 XO1  1    LIG  HE2  HCMM   0.150000        1.0079           0
+      12 XO1  1    LIG  HZ   HCMM   0.150000        1.0079           0
+
+      12 !NBOND: bonds
+       1       2       1       3       1       7       2       4
+       2       8       3       5       3       9       4       6
+       4      10       5       6       5      11       6      12
+
+      18 !NTHETA: angles
+       1       3       9       1       3       5       1       2       8
+       1       2       4       2       4      10       2       4       6
+       2       1       7       2       1       3       3       5      11
+       3       5       6       3       1       7       4       6      12
+       4       6       5       4       2       8       5       6      12
+       5       3       9       6       5      11       6       4      10
+
+      24 !NPHI: dihedrals
+       1       3       5      11       1       3       5       6
+       1       2       4      10       1       2       4       6
+       2       4       6      12       2       4       6       5
+       2       1       3       9       2       1       3       5
+       3       5       6      12       3       5       6       4
+       3       1       2       8       3       1       2       4
+       4       6       5      11       4       2       1       7
+       5       6       4      10       5       3       1       7
+       6       5       3       9       6       4       2       8
+       7       1       3       9       7       1       2       8
+       8       2       4      10       9       3       5      11
+      10       4       6      12      11       5       6      12
+
+       6 !NIMPHI: impropers
+       1       2       3       7       2       4       1       8
+       3       5       1       9       4       6       2      10
+       5       6       3      11       6       5       4      12
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0
+
+       1       0 !NGRP
+       0       0       0
+

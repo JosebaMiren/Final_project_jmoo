@@ -1,0 +1,14 @@
+REMARK original generated coordinate pdb file
+ATOM      1  CG  LIG X   1      -0.760   1.169  -0.001  1.00  0.00      XO1   
+ATOM      2  CD1 LIG X   1      -1.391  -0.075  -0.002  1.00  0.00      XO1   
+ATOM      3  CD2 LIG X   1       0.633   1.245  -0.001  1.00  0.00      XO1   
+ATOM      4  CE1 LIG X   1      -0.629  -1.243   0.000  1.00  0.00      XO1   
+ATOM      5  CE2 LIG X   1       1.395   0.076   0.000  1.00  0.00      XO1   
+ATOM      6  CZ  LIG X   1       0.764  -1.168   0.003  1.00  0.00      XO1   
+ATOM      7  HG  LIG X   1      -1.354   2.079   0.001  1.00  0.00      XO1   
+ATOM      8  HD1 LIG X   1      -2.476  -0.134  -0.004  1.00  0.00      XO1   
+ATOM      9  HD2 LIG X   1       1.124   2.214  -0.003  1.00  0.00      XO1   
+ATOM     10  HE1 LIG X   1      -1.120  -2.213  -0.001  1.00  0.00      XO1   
+ATOM     11  HE2 LIG X   1       2.480   0.136   0.000  1.00  0.00      XO1   
+ATOM     12  HZ  LIG X   1       1.358  -2.078   0.006  1.00  0.00      XO1   
+END

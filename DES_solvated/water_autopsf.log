@@ -1,0 +1,10 @@
+#Original PDB file: 
+#PDBSTART
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  OH2 TIP3W   5      -4.932   1.582 -24.096  1.00  0.00      WT1  O
+ATOM      2  H1  TIP3W   5      -5.376   1.951 -24.899  1.00  0.00      WT1  H
+ATOM      3  H2  TIP3W   5      -5.508   1.879 -23.373  1.00  0.00      WT1  H
+END
+
+#PDBEND
+#Creating chain WW1: 0 residues from indices 1 to 2 in original file. Patches: Nter none, Cter none

@@ -1,0 +1,15 @@
+#Original PDB file: 
+#PDBSTART
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  C   LIG X   1       0.965  -0.233  -0.087  0.00  0.00      XO1   
+ATOM      2  C1  LIG X   1       0.235   0.398   1.126  0.00  0.00      XO1   
+ATOM      3  O   LIG X   1       0.533  -1.150  -0.755  0.00  0.00      XO1   
+ATOM      4  O1  LIG X   1       0.736   1.320   1.748  0.00  0.00      XO1   
+ATOM      5  O2  LIG X   1       2.148   0.389  -0.287  0.00  0.00      XO1   
+ATOM      6  O3  LIG X   1      -0.949  -0.138   1.420  0.00  0.00      XO1   
+ATOM      7  H   LIG X   1       2.273   1.099   0.383  0.00  0.00      XO1   
+ATOM      8  H1  LIG X   1      -1.287   0.353   2.195  0.00  0.00      XO1   
+END
+
+#PDBEND
+#Creating chain XO1: 0 residues from indices 1 to 7 in original file. Patches: Nter none, Cter none

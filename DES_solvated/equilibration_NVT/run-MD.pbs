@@ -1,0 +1,29 @@
+#----------------------------------
+#!/bin/bash
+#PBS -q grau
+#PBS -S /bin/bash
+#PBS -l nodes=1:ppn=8
+#PBS -l walltime=12:00:00
+#PBS -N test_NAMD
+#-----------------------------------------------------------
+#                                                                                                                                                      
+
+echo Running on `hostname`
+echo This jobs runs on the following processors:
+echo `cat $PBS_NODEFILE`
+NSLOTS=`wc -l < $PBS_NODEFILE`
+echo This job has allocated $NSLOTS nodes
+#
+cd $PBS_O_WORKDIR
+pwd
+date
+
+echo "-----------"
+echo " Run NAMD MD example 1 node"
+
+# VERY IMPORTANT: THIS LINE HAS TO BE MODIFIED WITH YOUR INPUT AND OUTPUT FILE NAME
+/home/grau/MD-2021/namd_linux/namd2 +p $NSLOTS run.namd > run.log 
+
+date
+
+

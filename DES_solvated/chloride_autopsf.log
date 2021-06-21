@@ -1,0 +1,8 @@
+#Original PDB file: 
+#PDBSTART
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  CLA CLA C   1       0.000   0.000   0.000  1.00  0.00      CO1 CL
+END
+
+#PDBEND
+#Creating chain CO1: 0 residues from indices 1 to 0 in original file. Patches: Nter none, Cter none
